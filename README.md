@@ -1,0 +1,2 @@
+# HWIDs
+HWID
